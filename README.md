@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="www.linkedin.com/in/george-gitonga-a68358255">
+  <a href="https://www.linkedin.com/in/george-gitonga-a68358255">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/gitong_a_">
@@ -28,7 +28,7 @@ I am a Full Stack Developer from Kenya.
 
 - :zap: In my free time, I solve programming problems and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/george-gitonga-a68358255)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-gitonga-a68358255)
 
 ---
 
